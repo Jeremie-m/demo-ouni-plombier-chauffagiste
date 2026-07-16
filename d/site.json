@@ -1,0 +1,39 @@
+{
+  "business": {
+    "name": "Ouni plombier chauffagiste",
+    "category": "plombier",
+    "address": "21 à, Rue Jacques de Condorcet, 14100 Lisieux, France",
+    "phone": "07 80 39 83 65",
+    "rating": 4.9,
+    "reviews": 20
+  },
+  "content": {
+    "headline": "Votre plombier chauffagiste de confiance",
+    "subline": "Dépannage rapide, installation et entretien — noté 4,9/5 sur Google par nos clients.",
+    "services": [
+      "Dépannage plomberie",
+      "Recherche de fuite",
+      "Installation sanitaire",
+      "Chauffe-eau \u0026 ballon",
+      "Entretien chaudière",
+      "Débouchage canalisation"
+    ],
+    "about": "Ouni Plombier Chauffagiste met son savoir-faire au service des particuliers et des professionnels. Reconnu pour sa réactivité et la qualité de ses interventions, l'artisan a gagné la confiance de ses clients avec une note de 4,9/5 sur Google. Du simple dépannage à l'installation complète, chaque chantier est traité avec soin et transparence."
+  },
+  "images": {
+    "hero": "assets/urgence.webp",
+    "map": "assets/map.webp"
+  },
+  "map": {
+    "center": {
+      "lat": 49.1473503,
+      "lng": 0.2251401
+    },
+    "city": "Lisieux",
+    "label": "Lisieux · secteur d'intervention",
+    "padding": 1.4,
+    "provider": "openstreetmap",
+    "radiusKm": 20,
+    "title": "Carte OpenStreetMap de Lisieux et son secteur"
+  }
+}
