@@ -9,20 +9,19 @@
   },
   "content": {
     "headline": "Votre plombier chauffagiste de confiance",
-    "subline": "Dépannage rapide, installation et entretien. Intervention soignée notée 4,9/5 par 20 clients.",
+    "subline": "Dépannage rapide, installation et entretien — noté 4,9/5 sur Google par nos clients.",
     "services": [
       "Dépannage plomberie",
-      "Recherche et réparation de fuite",
+      "Recherche de fuite",
       "Installation sanitaire",
-      "Chauffage \u0026 chaudière",
-      "Débouchage canalisation",
-      "Entretien annuel"
+      "Chauffe-eau \u0026 ballon",
+      "Entretien chaudière",
+      "Débouchage canalisation"
     ],
-    "about": "Ouni plombier chauffagiste met son savoir-faire au service des particuliers et professionnels pour tous vos travaux de plomberie et de chauffage. Reconnu pour son sérieux et sa réactivité, l'artisan intervient rapidement avec un travail soigné et des conseils honnêtes. Une note de 4,9/5 qui témoigne d'un engagement constant envers la satisfaction de ses clients."
+    "about": "Ouni Plombier Chauffagiste met son savoir-faire au service des particuliers et des professionnels. Reconnu pour sa réactivité et la qualité de ses interventions, l'artisan a gagné la confiance de ses clients avec une note de 4,9/5 sur Google. Du simple dépannage à l'installation complète, chaque chantier est traité avec soin et transparence."
   },
   "images": {
-    "about": "assets/intervention.webp",
-    "hero": "assets/artisan.webp",
+    "hero": "assets/urgence.webp",
     "map": "assets/map.webp"
   },
   "map": {
